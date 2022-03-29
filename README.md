@@ -1,11 +1,10 @@
-README.md
 ============ GeoDataRest Project ============
 
 Hello,
 
 This project was made with Visual Studio 2019 as WebApi ASP Net application using REST 
 
-It's a REST api to ingest geography data to a SQL Server database instance and provide simple ingesting and listing endpoints
+Designed to ingest geography data to a SQL Server database instance and provide simple ingesting and listing endpoints
 
 * Be sure to have installed CLR Types for SQL Server 2012/2014 
 
@@ -59,8 +58,6 @@ WebApiConfig was modified to provide multiple actions for the controller ( route
 
 Global.asax was modified to add SQL Server support to Geography data types
 
-And nugets for cors, EntityFramework, WebApi and Microsoft.SqlServer.Types were added to
+And nugets for cors, EntityFramework, WebApi and Microsoft.SqlServer.Types were added too
 
-
-
-
+Thanks for watching! 
